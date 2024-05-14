@@ -56,7 +56,7 @@ const Footer = () => {
                   href="#"
                   className=""
                 >
-                 aniketpatil6400@gmail.com
+                 admin@krtechnologies.ltd
                 </a>
               </motion.div>
 
